@@ -1,0 +1,5 @@
+langchain
+pandas
+langchain-openai
+langchain-community
+langchain-chroma
